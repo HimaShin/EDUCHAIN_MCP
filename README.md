@@ -12,6 +12,7 @@ An MCP (Modular Content Provider) server built using **FastAPI** and **EduChain*
 - ✅ `POST /generate-lesson-plan`: Generate structured lesson plans
 - ✅ 🔐 Powered by OpenAI (via LangChain)
 - 🧠 Smart question logic using LLM Math Chain
+- The Demo video also available Demo_MCP(1)
 
 ---
 
